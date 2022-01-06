@@ -1,4 +1,17 @@
 # Preparation-Tips-to-Pass-Microsoft-MTA-Networking-Fundamentals-98-366-Exam
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Image as link</title>
+   </head>
+   <body>
+      The following image works as a link:<br>
+      <a href="https://www.qries.com/">
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         width=150" height="70">
+      </a>
+   </body>
+</html>
 <p>Microsoft certifications are among the most desirable for IT professionals worldwide. They have a range of certifications that cover all their products used by enterprises. The 98-366 exam are one of the fastest-growing certifications out of all of them and passing this exam will give your career a tremendous credibility boost. The exam is concerned with Microsoft Technology Associate, which is increasingly popular with companies.</p>
 
 <p><strong>Three reasons why you would need to take a Microsoft 98-366 exam.</strong></p>
