@@ -18,7 +18,7 @@
 <p>Therefore, you will be much better prepared for your <a href="https://examshero.com/microsoft/">Microsoft Technology Associate exams</a>. Now, that does not mean that you don't need any external resources to prepare. There are hundreds of certification exam prep Questions that are sold for each exam. When you are choosing a vendor to buy such a kit, be sure to avoid fake websites because there are many scams doing the rounds of the web. A good vendor website will have all the information you need to be laid out neatly and will have Practice exams Questions for more than just one exam.</p>
 
 <p><strong>Where to buy the Valid Microsoft 98-366 Exam Question and Answers</strong></p>
-<a href="https://examshero.com/microsoft/98-366-exam-dumps/"><img src="[ https://examshero.com/wp-content/uploads/2022/01/Practice-test-questions-scaled.jpg]" /></a>
+<a href=["https://examshero.com/microsoft/98-366-exam-dumps/"]><img src="[ https://examshero.com/wp-content/uploads/2022/01/Practice-test-questions-scaled.jpg]" /></a>
 
 <p>Exams Hero Are Top Trending and Valid Exams questions website, they have prepared materials for hundreds of exams. These are designed by experts who are certified professionals themselves. Since Microsoft MTA Networking Fundamentals is an increasingly popular exam, So Exams Hero Have All Valid Questions and answers materials which covering this exam. Exams Hero also sell you specialized Exam Question PDF File that will help make your preparation for your Microsoft Technology Associate 98-366 exam easier.</p>
 
